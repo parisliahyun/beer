@@ -1,0 +1,4 @@
+name = My module
+description = TODO: Adds a block in the sidebar that prints Hello @user. 
+dependencies[] = views
+core = 7.x
